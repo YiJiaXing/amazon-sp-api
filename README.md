@@ -13,7 +13,7 @@ https://github.com/amzn/selling-partner-api-docs/blob/main/guides/zh-CN/develope
 
 在这个文档中中 
 
-![image-20220218095432175](C:\Users\YJX\AppData\Roaming\Typora\typora-user-images\image-20220218095432175.png)
+![image-20220218095432175](..\amazon-sp-api\xingapapi\image-20220218095432175.png)
 
 
 
